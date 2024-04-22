@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ForwardIterator"},{"p":"<Unnamed>","l":"Iterator"},{"p":"<Unnamed>","l":"LinearList"},{"p":"<Unnamed>","l":"LinearListCreator"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"SimpleLinearList"},{"p":"<Unnamed>","l":"SimpleLinearListCreator"}];updateSearchResults();
